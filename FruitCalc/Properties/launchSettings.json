@@ -1,0 +1,11 @@
+{
+  "profiles": {
+   "FruitCalc": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Oranges\" \"10\" \"5\" \"0\" \"Apples\" \"5\" \"1\" \"0\""
+   },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

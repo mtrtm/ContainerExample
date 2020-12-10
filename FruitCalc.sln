@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitCalc", "FruitCalc\FruitCalc.csproj", "{CFE8C9E7-B6C6-460F-BC64-7F339E4B7A98}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{921737E8-DC02-436B-97A7-F1F67538641D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE8C9E7-B6C6-460F-BC64-7F339E4B7A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE8C9E7-B6C6-460F-BC64-7F339E4B7A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE8C9E7-B6C6-460F-BC64-7F339E4B7A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE8C9E7-B6C6-460F-BC64-7F339E4B7A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921737E8-DC02-436B-97A7-F1F67538641D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921737E8-DC02-436B-97A7-F1F67538641D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921737E8-DC02-436B-97A7-F1F67538641D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921737E8-DC02-436B-97A7-F1F67538641D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9065A33D-52A3-4A32-AF4C-2D7582FCA6C0}
+	EndGlobalSection
+EndGlobal

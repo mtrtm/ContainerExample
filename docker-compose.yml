@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fruitcalc:
+    image: ${DOCKER_REGISTRY-}fruitcalc
+    build:
+      context: .
+      dockerfile: FruitCalc/Dockerfile
